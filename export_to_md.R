@@ -1,9 +1,7 @@
 ## letterboxd export CSV to markdown
-setwd("~/Dropbox/letterboxd_export/")
+setwd("~/Dropbox/letterbox_to_jekyll/")
 
 dat <- read.csv("letterboxd-samarthbhaskar-2015-02-08-08-41-utc/reviews.csv")
-
-dat[1]
 
 postify <- function(dat){ 
 
@@ -20,11 +18,19 @@ date: ", dat[,1], "
       rev <- dat[,6]
       
       title <- dat[,2]
-      post <-  (as.matrix(paste(yaml, date, rev)))
+      
+      url <- paste0("
+[LetterboxD review link](", dat[,4],")
+
+")
+      
+      post <-  (as.matrix(paste(yaml, date, url, rev)))
+      
       d <- dat[,1]
       
-      df <- data.frame(d, title, post)
-      colnames(df) <- c("date","title","post")
+      
+      df <- data.frame(d, title, post, url)
+      colnames(df) <- c("date","title","post", "url")
       return(df)
 }
 

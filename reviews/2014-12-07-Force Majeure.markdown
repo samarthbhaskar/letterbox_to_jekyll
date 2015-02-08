@@ -3,6 +3,9 @@ layout: post
 title: Force Majeure 
 date:  2014-12-07 
 ---
+ 
+[LetterboxD review link](http://letterboxd.com/samarthbhaskar/film/force-majeure-2014/)
+
  Among the better foreign films I've seen this year. I liked the questions and provocations it offered about nature, human nature, gender, marriage and modernity. I think the actors did a good job keeping the writing front and center, creating a dark atmosphere and making me feel just weird enough that my attention was captured the whole time. The director, also, did his part in making me uncomfortable from beginning to end, which helped carry the message for this film.
 
 I'm glad Tomas, the father, came to a place by the end of the film where he was comfortable being himself. It's unfortunate that who he ended up being was not really too impressive a man.

@@ -3,6 +3,9 @@ layout: post
 title: Nightcrawler 
 date:  2014-11-02 
 ---
+ 
+[LetterboxD review link](http://letterboxd.com/samarthbhaskar/film/nightcrawler/)
+
  I had a lot of fun watching Nightcrawler. Gyllenhaal is definitely at the top of his game here. Even his face is more gaunt, which adds to the overall creepiness of this character. His assistant, played by Riz Ahmed (who was great in Four Lions), was one of my favorite characters as well. Although I could do without Hollywood's repeated use of Latino/South Asian actors to play the mismatched Latino/South Asian parts.
 
 I sometimes get a little tired of LA as a character in films, because it seems so navel-gazy, but this film used LA properly. Night-time LA has a Michael Mann sort of feel to it and it came out beautifully in this film. And watching Los Angeles Plays Itself last year gave me a new appreciation for why LA has been so important to Hollywood films.

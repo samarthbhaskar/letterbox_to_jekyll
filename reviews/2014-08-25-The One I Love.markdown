@@ -3,6 +3,9 @@ layout: post
 title: The One I Love 
 date:  2014-08-25 
 ---
+ 
+[LetterboxD review link](http://letterboxd.com/samarthbhaskar/film/the-one-i-love-2014/)
+
  The writing, direction and acting was really great - especially the first 3 acts. I fear the movie sets up a question it just can't answer by the final act. 
 
 Duplass deserves all the praise he's receiving for his work in this film, he quickly won me over on screen and kept my respect throughout. I don't know if the fact that he helped produce this movie is completely unrelated. I think he took this role more seriously than past work. Moss, on the other hand, was effective at best. 
